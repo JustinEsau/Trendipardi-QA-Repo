@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Find a Vendor</name>
+   <tag></tag>
+   <elementGuidId>f4382cb8-0cbb-4c55-800d-3ed401dc2223</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div[9]/div/div/div/div/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>b610e234-b9d4-4a4c-b36a-e77dfd2d2d7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>55a02200-9944-44f3-b860-7764f57d0b8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Find a Vendor</value>
+      <webElementGuid>62eef57f-1958-4e41-b91f-944dd1ee49b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;elementor elementor-22&quot;]/div[@class=&quot;elementor-element elementor-element-33e4b0a e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-4cd6a45 e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-26aef8e content-align-cta-default elementor-widget elementor-widget-eael-cta-box&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;eael-call-to-action cta-basic bg-lite cta-preset-2&quot;]/h2[@class=&quot;title&quot;]</value>
+      <webElementGuid>d496f965-7d5d-4fd8-860a-97b2265493b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div[9]/div/div/div/div/div/h2</value>
+      <webElementGuid>e02dc637-9212-478b-ac55-2290a3ceea6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read more'])[4]/following::h2[1]</value>
+      <webElementGuid>6275efc5-efc3-47e2-953f-0aa4f3b47a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Vendor Store List'])[1]/preceding::h2[1]</value>
+      <webElementGuid>5bd0781f-3944-4d86-b3b2-64a0acff1d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a Vendor'])[1]/preceding::h2[1]</value>
+      <webElementGuid>597fe2fd-60a7-44d0-ab21-279160070992</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Find a Vendor']/parent::*</value>
+      <webElementGuid>ed026382-cdef-4f8b-81c2-7eb6c9a7ee98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div/div/div/h2</value>
+      <webElementGuid>8920c618-85c3-410b-9728-b0afe5a3a237</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Find a Vendor' or . = 'Find a Vendor')]</value>
+      <webElementGuid>8e0b97d4-333b-4516-aeae-37f1db35df28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

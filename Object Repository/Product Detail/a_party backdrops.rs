@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_party backdrops</name>
+   <tag></tag>
+   <elementGuidId>92f3b773-6fea-43d2-8c45-dc243c5f52cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tagged_as > span.meta-content > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='product-545']/div[2]/div[3]/div[2]/span[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09c2e9e7-41fb-4732-b05c-6a2f253c639e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://uat1.redchipmedia.co.za/product-tag/party-backdrops/</value>
+      <webElementGuid>98de1b06-8e4d-4ad1-9967-0f9629725777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>tag</value>
+      <webElementGuid>47fdf063-1eeb-41c3-89f6-f217f65dcbc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>party backdrops</value>
+      <webElementGuid>a3bfe5f9-f1d4-463d-a1dc-bb11e3c74e83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-545&quot;)/div[@class=&quot;summary entry-summary&quot;]/div[@class=&quot;product_meta&quot;]/div[@class=&quot;tagged_as&quot;]/span[@class=&quot;meta-content&quot;]/a[1]</value>
+      <webElementGuid>7d1b4738-956d-44ab-a53c-b6d37301e2d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-545']/div[2]/div[3]/div[2]/span[2]/a</value>
+      <webElementGuid>c664e7f8-188f-4d4d-aab2-b6a3bed6a7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'party backdrops')]</value>
+      <webElementGuid>9e2af8d6-35e2-44a1-8803-87236e469217</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tag:'])[1]/following::a[1]</value>
+      <webElementGuid>51205847-de59-4140-b63d-338eb8c01480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backdrops'])[3]/following::a[1]</value>
+      <webElementGuid>eaa0a2ed-37fb-4389-bc58-db17ae375d00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviews (1)'])[1]/preceding::a[2]</value>
+      <webElementGuid>22792735-965d-47e8-a5fb-26f76ebbf9c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='party backdrops']/parent::*</value>
+      <webElementGuid>8505c0df-ae69-453d-acb3-97460071781e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://uat1.redchipmedia.co.za/product-tag/party-backdrops/')]</value>
+      <webElementGuid>ba6e0184-e62a-4f1c-85a3-dd36ceccd41d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span[2]/a</value>
+      <webElementGuid>7c128956-65d1-4e3f-90bc-b252da0360f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://uat1.redchipmedia.co.za/product-tag/party-backdrops/' and (text() = 'party backdrops' or . = 'party backdrops')]</value>
+      <webElementGuid>cf69d205-389f-4e72-a6b2-45f3b32b7668</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

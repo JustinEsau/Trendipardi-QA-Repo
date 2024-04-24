@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Vendor Subscription - 01</name>
+   <tag></tag>
+   <elementGuidId>4b3111e2-1a8f-4d5e-9601-bfbc5a002237</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div/div/div/div/div/div[2]/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>a2a34f76-7322-4125-b15a-a69c466ab51a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vendor Subscription - 01</value>
+      <webElementGuid>2bebf540-de56-47e0-bce0-25e75a450e91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;elementor elementor-104&quot;]/div[@class=&quot;elementor-element elementor-element-04677bc e-con-full e-flex e-con e-parent&quot;]/div[@class=&quot;elementor-element elementor-element-2e9b27cf elementor-widget-mobile__width-initial elementor-widget__width-initial elementor-widget elementor-widget-shortcode&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-shortcode&quot;]/div[@class=&quot;dokan-subscription-content&quot;]/div[@class=&quot;pack_content_wrapper&quot;]/div[@class=&quot;product_pack_item&quot;]/div[@class=&quot;pack_content&quot;]/h2[1]</value>
+      <webElementGuid>5e2304d0-18f4-48a5-bf54-af73bf55ef1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div/div/div/div/div/div[2]/h2</value>
+      <webElementGuid>78386285-bf65-4206-a50f-8d20e63ebec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[2]/following::h2[1]</value>
+      <webElementGuid>8236ef2d-6bfb-4b43-b9fe-031109a7c64a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Store List'])[4]/following::h2[1]</value>
+      <webElementGuid>4561fbc7-86f8-404c-b79b-b1267002d8e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buy Now'])[1]/preceding::h2[1]</value>
+      <webElementGuid>62aa8e0d-14d5-4050-925f-8dc514409a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vendor Subscription - 01']/parent::*</value>
+      <webElementGuid>dbecd22c-1343-4566-bcbc-073a6c009938</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>703a582b-fafa-4ce5-9b73-74f3b6d60c9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Vendor Subscription - 01' or . = 'Vendor Subscription - 01')]</value>
+      <webElementGuid>57a924bb-6e9f-4bc6-9714-cdac71fdaf21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

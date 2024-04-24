@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_VENDOR INFO</name>
+   <tag></tag>
+   <elementGuidId>63881151-ae68-49f7-ba93-6d2e1f13e63f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='nav_menu-2']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.widget-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>89d6e913-068d-4ee4-be5f-cd430c7fd814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>widget-title</value>
+      <webElementGuid>a35ab39f-f739-4b45-a21a-139f555f4c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>VENDOR INFO</value>
+      <webElementGuid>fc494301-97d2-4e0a-8cfb-0ceb4a1c759c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_menu-2&quot;)/h2[@class=&quot;widget-title&quot;]</value>
+      <webElementGuid>3d7af71c-2957-4664-8887-3a991e1728eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='nav_menu-2']/h2</value>
+      <webElementGuid>a2feebda-d3f9-411d-afc8-54d274e8a5fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keep 100% Profit!'])[1]/following::h2[1]</value>
+      <webElementGuid>fa878f8b-3c15-4100-92af-ca2e77af0b3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure Client Sales'])[1]/following::h2[1]</value>
+      <webElementGuid>eb6c7643-ac05-4126-b964-ff9a99baacd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My account'])[1]/preceding::h2[1]</value>
+      <webElementGuid>cb2e194e-827d-4ca2-9366-1369410f5608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a Vendor'])[2]/preceding::h2[1]</value>
+      <webElementGuid>a3eabd9f-01ee-4d0b-85f5-df2a0b6b9bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='VENDOR INFO']/parent::*</value>
+      <webElementGuid>de18332b-c614-43fe-b8d3-4ebb62757aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/h2</value>
+      <webElementGuid>3832d9b7-7fc2-4e2e-a9bc-7ccb78f618bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'VENDOR INFO' or . = 'VENDOR INFO')]</value>
+      <webElementGuid>6224ebe3-0485-459d-9a95-6c3bbd054327</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

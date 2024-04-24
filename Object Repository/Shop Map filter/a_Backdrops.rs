@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Backdrops</name>
+   <tag></tag>
+   <elementGuidId>3bea8b64-031b-4990-af03-d9e8ff58534d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.info-title > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='iziModal6012520']/div/div/div/div/div/div/h3/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bf2fe343-daf7-4866-bf94-4315cf05f420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://uat1.redchipmedia.co.za/product/backdrops/</value>
+      <webElementGuid>7739bf78-5aa8-49ba-95fb-41ab226498a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Backdrops</value>
+      <webElementGuid>115e0d13-05f6-435a-9087-8414d24120e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;iziModal6012520&quot;)/div[@class=&quot;iziModal-wrap&quot;]/div[@class=&quot;iziModal-content&quot;]/div[@class=&quot;white-popup dokan-geo-map-info-windows-in-popup&quot;]/div[@class=&quot;dokan-geo-map-info-window&quot;]/div[@class=&quot;dokan-clearfix&quot;]/div[@class=&quot;dokan-w9&quot;]/h3[@class=&quot;info-title&quot;]/a[1]</value>
+      <webElementGuid>5e9754aa-3ea0-444a-acdb-c123aebc962d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='iziModal6012520']/div/div/div/div/div/div/h3/a</value>
+      <webElementGuid>0439636d-8e4a-4b5e-8305-d520b7f88b34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Backdrops')])[2]</value>
+      <webElementGuid>911e0206-c0c4-48cb-b158-8254603f3506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage consent'])[1]/following::a[1]</value>
+      <webElementGuid>d489222b-d84b-4099-9c91-2285a203071c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Policy (ZA)'])[1]/following::a[1]</value>
+      <webElementGuid>29cb7043-4e32-4a04-8a75-2062397e196c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Birthday Cakes'])[2]/preceding::a[1]</value>
+      <webElementGuid>b81d1847-138c-4157-803b-6ba5586d85c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Candy Cart'])[2]/preceding::a[2]</value>
+      <webElementGuid>de4c5f20-b196-4599-9dfc-a43c1f78e1ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://uat1.redchipmedia.co.za/product/backdrops/')])[4]</value>
+      <webElementGuid>6fe4ed2d-b09a-4d65-942b-92dd6c59e2f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a</value>
+      <webElementGuid>ac6f5abf-0ef7-4283-b075-22148b9dc574</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://uat1.redchipmedia.co.za/product/backdrops/' and (text() = 'Backdrops' or . = 'Backdrops')]</value>
+      <webElementGuid>5dbc8fd1-1706-4dea-8f50-e48b97a4fe0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

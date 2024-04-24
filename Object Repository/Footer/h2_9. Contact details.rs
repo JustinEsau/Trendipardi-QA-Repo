@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_9. Contact details</name>
+   <tag></tag>
+   <elementGuidId>863d010e-3ed7-46b9-b250-73ce59230fa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-1669']/div/div/h2[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>58f063a6-7a6b-49df-8bb0-3216c91c5db2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-heading</value>
+      <webElementGuid>174dfa6d-1ebd-4be6-ae2a-66462084bd67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>9. Contact details</value>
+      <webElementGuid>f226fd98-1cae-45e5-bc71-bd72e6663290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-1669&quot;)/div[@class=&quot;inside-article&quot;]/div[@class=&quot;entry-content&quot;]/h2[@class=&quot;wp-block-heading&quot;]</value>
+      <webElementGuid>9fabb154-f6b5-4098-ac1c-04f9ecdbd91d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-1669']/div/div/h2[9]</value>
+      <webElementGuid>2511a70d-051e-45d6-9f3b-d50a873f5504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Right of access: You have the right to access your personal data that is known to us.'])[1]/following::h2[1]</value>
+      <webElementGuid>345274aa-d0c0-42c1-ba1b-6b32e1c2eafe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://uat1.redchipmedia.co.za'])[1]/following::h2[8]</value>
+      <webElementGuid>f0f6394a-446a-4105-b287-7e39c1d82fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='https://uat1.redchipmedia.co.za'])[2]/preceding::h2[1]</value>
+      <webElementGuid>2e1b4597-38e0-4164-a734-7b8c196fefbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact page'])[1]/preceding::h2[1]</value>
+      <webElementGuid>17781788-e8af-427b-90b1-d98e7dd67a3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='9. Contact details']/parent::*</value>
+      <webElementGuid>032c09ed-b07d-4cd3-a437-620025e91eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[9]</value>
+      <webElementGuid>1ea3fb3f-1455-4f99-a7d4-41458af66d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '9. Contact details' or . = '9. Contact details')]</value>
+      <webElementGuid>729876dc-cfe6-4899-abf3-3363e476aa7c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Delivery Time</name>
+   <tag></tag>
+   <elementGuidId>54adb168-3f60-4a40-ade4-caee86c10176</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.delivery-time-dashboard > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dokan-navigation']/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>899a66d8-3b5e-4dde-96ff-cea70f761cae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://uat1.redchipmedia.co.za/dashboard/delivery-time-dashboard/</value>
+      <webElementGuid>1c89e5da-57e6-42dd-b7c9-0d0c6bf06291</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Delivery Time</value>
+      <webElementGuid>862a31e2-e9bf-4570-bd71-83a0df35b814</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dokan-navigation&quot;)/ul[@class=&quot;dokan-dashboard-menu&quot;]/li[@class=&quot;delivery-time-dashboard&quot;]/a[1]</value>
+      <webElementGuid>bdb4f644-04f4-4585-bb55-278af7ff28fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dokan-navigation']/ul/li[4]/a</value>
+      <webElementGuid>655e45a6-701b-4c7a-8534-b48ec14b548f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Delivery Time')])[4]</value>
+      <webElementGuid>643c7e43-6f83-4f27-9a77-6536a50efead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Quotes'])[1]/following::a[1]</value>
+      <webElementGuid>dc9080fa-82e2-454f-a7a7-92fb8d576311</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders (1)'])[1]/following::a[2]</value>
+      <webElementGuid>56828f33-f079-49e7-9e0b-b39182110183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviews'])[1]/preceding::a[1]</value>
+      <webElementGuid>216404f5-58fc-42ce-8a48-e43bab2ba6fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Badge'])[1]/preceding::a[2]</value>
+      <webElementGuid>17d6f884-f636-41db-9cad-3b6302fd687e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delivery Time']/parent::*</value>
+      <webElementGuid>25c11969-6601-4c75-b3fc-79226e01e987</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://uat1.redchipmedia.co.za/dashboard/delivery-time-dashboard/')])[4]</value>
+      <webElementGuid>658872e4-587d-4431-a8cc-56a94d9288b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/ul/li[4]/a</value>
+      <webElementGuid>57860969-f54b-42ff-8e73-5e22ea645309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://uat1.redchipmedia.co.za/dashboard/delivery-time-dashboard/' and (text() = ' Delivery Time' or . = ' Delivery Time')]</value>
+      <webElementGuid>1bd96c38-f155-4e39-ba7a-137a7221a63e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

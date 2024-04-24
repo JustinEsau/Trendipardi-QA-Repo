@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Where your data is sent</name>
+   <tag></tag>
+   <elementGuidId>629bd334-2b5c-4ea2-bf89-0eff05e72e90</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-3']/div/div/h2[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>fcd2fe88-872d-45f5-a5c4-9538b48d432b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wp-block-heading</value>
+      <webElementGuid>d2a6a669-5f00-4bfc-b548-d9eb44f1225d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Where your data is sent</value>
+      <webElementGuid>b6f9bbe2-60a9-492f-8636-b65bb2f35178</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-3&quot;)/div[@class=&quot;inside-article&quot;]/div[@class=&quot;entry-content&quot;]/h2[@class=&quot;wp-block-heading&quot;]</value>
+      <webElementGuid>46fcd920-e524-44b1-abf1-d449aa0f1836</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-3']/div/div/h2[9]</value>
+      <webElementGuid>9aff1a51-424e-4fae-84af-83101bafb227</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What rights you have over your data'])[1]/following::h2[1]</value>
+      <webElementGuid>9f7ba365-9318-4f36-82ac-76725df44898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How long we retain your data'])[1]/following::h2[2]</value>
+      <webElementGuid>9e7206a7-fc72-47c3-b8d0-2e0468220e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Store Setup'])[1]/preceding::h2[1]</value>
+      <webElementGuid>0ba01c25-fe8f-4cf0-8491-f7682d1899fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Secure Client Sales'])[1]/preceding::h2[1]</value>
+      <webElementGuid>a3df8f65-23f6-459c-a362-5b6cf011291d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Where your data is sent']/parent::*</value>
+      <webElementGuid>686a3cff-dc3a-4471-aa8f-a4b648fb6314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2[9]</value>
+      <webElementGuid>29837624-2c73-4ecb-ab61-ef5926390f3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Where your data is sent' or . = 'Where your data is sent')]</value>
+      <webElementGuid>65fb6c22-d0aa-4110-ac3d-1dae75b3e226</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

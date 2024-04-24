@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Catering Services_fas fa-angle-right</name>
+   <tag></tag>
+   <elementGuidId>6e223fab-e258-4898-b7be-d0d3231eccc3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cat-drop-stack']/ul/li/a/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-angle-right</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7a4433cf-3fc0-4328-b18e-3b62cbc75041</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-angle-right</value>
+      <webElementGuid>08a945cd-287b-495f-8b6b-c34d1291e143</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7c3b134e-5e7d-4a5b-8221-b533d2c784bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cat-drop-stack&quot;)/ul[1]/li[@class=&quot;has-children parent-cat-wrap&quot;]/a[1]/span[@class=&quot;caret-icon&quot;]/i[@class=&quot;fas fa-angle-right&quot;]</value>
+      <webElementGuid>a9b98bdf-82dc-475c-8be5-37fe9e00a55d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cat-drop-stack']/ul/li/a/span/i</value>
+      <webElementGuid>106b941c-8379-4a25-8f9b-6384b99b9d19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>a2904d57-8354-45de-9075-56172cc8fb6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

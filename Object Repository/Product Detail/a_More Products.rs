@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_More Products</name>
+   <tag></tag>
+   <elementGuidId>396c9027-a63d-4528-ab4e-b4b400e8352b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-title-more_seller_product > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tab-title-more_seller_product']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fcf3f067-cde6-4aab-8b18-5ac6baa945cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#tab-more_seller_product</value>
+      <webElementGuid>8a549a24-13fb-4317-9105-4bf97fbdcabc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> More Products </value>
+      <webElementGuid>3743529f-5621-4292-9c86-602f5abab0cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-title-more_seller_product&quot;)/a[1]</value>
+      <webElementGuid>25afbe5b-7822-4730-a2c0-23c96d52d6bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tab-title-more_seller_product']/a</value>
+      <webElementGuid>e1ab5a73-fc1b-4c1e-88df-dcf24203d82e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'More Products')]</value>
+      <webElementGuid>1a8b0836-de4e-44e5-9296-8b106e58474a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::a[1]</value>
+      <webElementGuid>ee04c81a-adba-442b-ab22-6726bd5957e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reviews (1)'])[1]/following::a[2]</value>
+      <webElementGuid>a2e12e81-c4de-42a8-8c46-f9008842e54e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Enquiry'])[1]/preceding::a[1]</value>
+      <webElementGuid>ed0d59e7-8287-4a1d-9077-acb883a32aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backdrops'])[4]/preceding::a[2]</value>
+      <webElementGuid>54c8c5c8-5d8c-4a43-ab1b-5a38ccc9b34a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='More Products']/parent::*</value>
+      <webElementGuid>45f7f4e4-6e64-4320-a527-b165c1bf2523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#tab-more_seller_product')]</value>
+      <webElementGuid>8d8f617e-6606-496b-bc28-cf561d67c4ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/ul/li[3]/a</value>
+      <webElementGuid>1354e3c5-10f4-43bf-9f91-8e5a385cf705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#tab-more_seller_product' and (text() = ' More Products ' or . = ' More Products ')]</value>
+      <webElementGuid>6cf4b889-6e06-4c8d-9de2-8627a98870f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

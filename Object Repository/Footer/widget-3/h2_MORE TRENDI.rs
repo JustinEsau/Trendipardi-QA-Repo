@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_MORE TRENDI</name>
+   <tag></tag>
+   <elementGuidId>78974eae-7a73-4b99-bd47-f12156121ae3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//aside[@id='nav_menu-6']/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#nav_menu-6 > h2.widget-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>540698fc-0516-4038-8cd5-50342079fe14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>widget-title</value>
+      <webElementGuid>a30d1c0d-a9f8-4f26-b931-3b8b69b3e7eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MORE TRENDI</value>
+      <webElementGuid>74f3871f-275a-4648-820d-0f055c1d3369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;nav_menu-6&quot;)/h2[@class=&quot;widget-title&quot;]</value>
+      <webElementGuid>dec0597f-602a-4540-a882-1c64345e8c0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//aside[@id='nav_menu-6']/h2</value>
+      <webElementGuid>83e74e51-8684-4fc5-8975-8c1098884565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor Store List'])[1]/following::h2[1]</value>
+      <webElementGuid>2fc8e6b2-9266-4c8f-8b94-630e5b22a4a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vendor Subscription'])[1]/following::h2[1]</value>
+      <webElementGuid>f330222a-ea12-4960-b92d-cbcddeb5c5a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How it works'])[1]/preceding::h2[1]</value>
+      <webElementGuid>0cb39c44-1b78-4cad-9489-e9771ca4f9cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ’s'])[1]/preceding::h2[1]</value>
+      <webElementGuid>10816d67-c63b-4447-82b5-6210c4084a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='MORE TRENDI']/parent::*</value>
+      <webElementGuid>8af4e80f-f101-41f7-b706-bd307d3d2a0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/aside/h2</value>
+      <webElementGuid>1eb841b3-56bd-4fa9-acb6-c07770a8dde2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'MORE TRENDI' or . = 'MORE TRENDI')]</value>
+      <webElementGuid>d6723081-4a94-44d3-88e9-75276a3a1034</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

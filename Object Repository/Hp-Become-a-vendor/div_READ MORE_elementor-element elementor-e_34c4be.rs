@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_READ MORE_elementor-element elementor-e_34c4be</name>
+   <tag></tag>
+   <elementGuidId>60e6ce8b-8913-4737-a638-d39872602946</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='READ MORE'])[1]/following::div[10]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.elementor-element.elementor-element-46ed9d0.e-con-full.e-flex.e-con.e-child</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>17136223-0a4f-4ee8-b6b0-a036c822804f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-particle_enable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>06cb4a32-03be-42b5-b759-cf2294a076bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-particle-mobile-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>21bf118c-847f-4808-ba6e-0e460c2f9545</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>elementor-element elementor-element-46ed9d0 e-con-full e-flex e-con e-child</value>
+      <webElementGuid>7f361ad7-d4b4-469f-837f-03aa85afc9b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>46ed9d0</value>
+      <webElementGuid>4dc49383-0cac-4f68-810b-286181c9af9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-element_type</name>
+      <type>Main</type>
+      <value>container</value>
+      <webElementGuid>59a26b7a-2dc6-4087-8c89-0ac3a817e4a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template page-template-elementor_canvas page page-id-220 wp-custom-logo theme-dokani-develop woocommerce-no-js no-sidebar nav-float-right fluid-header separate-containers active-footer-widgets-4 nav-aligned-left header-aligned-left dropdown-hover elementor-default elementor-template-canvas elementor-kit-134 elementor-page elementor-page-220 dokan-theme-dokani-develop&quot;]/div[@class=&quot;elementor elementor-220&quot;]/div[@class=&quot;elementor-element elementor-element-b2da948 e-con-full e-flex e-con e-parent&quot;]/div[@class=&quot;elementor-element elementor-element-01aff7b e-con-full e-flex e-con e-child&quot;]/div[@class=&quot;elementor-element elementor-element-46ed9d0 e-con-full e-flex e-con e-child&quot;]</value>
+      <webElementGuid>93ddece7-7a99-4f83-ad2c-9d6eae765ccd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='READ MORE'])[1]/following::div[10]</value>
+      <webElementGuid>07985607-5cfc-4a70-96ce-16d6dea13505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TrendiPardi'])[1]/following::div[15]</value>
+      <webElementGuid>555a7806-68e8-48ca-90b4-d167116bb6c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/preceding::div[9]</value>
+      <webElementGuid>1764a2fd-f28c-4e2b-8bfb-78cb07575b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Twitter'])[1]/preceding::div[9]</value>
+      <webElementGuid>926d20be-3876-4a6f-ad6e-5eebfcfb7ce3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]</value>
+      <webElementGuid>471b7b24-11d7-425f-8272-1d37cf14636e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

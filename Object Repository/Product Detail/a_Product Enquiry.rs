@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Product Enquiry</name>
+   <tag></tag>
+   <elementGuidId>802ea03a-aa2f-44dc-878b-091e44fd2350</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#tab-title-seller_enquiry_form > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tab-title-seller_enquiry_form']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f6907c96-e9c8-4661-bd41-ce0054c78f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#tab-seller_enquiry_form</value>
+      <webElementGuid>517954a4-9321-45ec-9692-2a7fd831de9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Product Enquiry </value>
+      <webElementGuid>478244cb-cb26-4ed1-88d5-9c5ee030322b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tab-title-seller_enquiry_form&quot;)/a[1]</value>
+      <webElementGuid>ec0f681c-0312-4574-852d-93217b3b09fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tab-title-seller_enquiry_form']/a</value>
+      <webElementGuid>c9c758f1-acc5-4884-aae4-56e2cb5ac0a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Product Enquiry')]</value>
+      <webElementGuid>1810908f-617c-403a-846d-08db22b3ae7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More Products'])[1]/following::a[1]</value>
+      <webElementGuid>a8ca0b79-e9cc-49f9-863b-4f7fc1d43cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/following::a[2]</value>
+      <webElementGuid>b0115da0-19a2-4621-81d8-6505793e8662</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backdrops'])[4]/preceding::a[1]</value>
+      <webElementGuid>155b6159-8aa7-4589-9345-787ecb246691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Product Enquiry']/parent::*</value>
+      <webElementGuid>228f575e-ab58-433a-a2ab-26e3f32d2419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#tab-seller_enquiry_form')]</value>
+      <webElementGuid>014ae4af-c650-4b8f-b8af-fc6219e21ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[4]/a</value>
+      <webElementGuid>e7274cc7-a39c-4761-837a-53652b846518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#tab-seller_enquiry_form' and (text() = ' Product Enquiry ' or . = ' Product Enquiry ')]</value>
+      <webElementGuid>f5ed353b-ec3a-4662-9e76-117b523a07f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Social Profile_fas fa-power-off</name>
+   <tag></tag>
+   <elementGuidId>2fba2c17-2e4e-4381-b8c0-03db9fd54efa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-power-off</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dokan-navigation']/ul/li[15]/a[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>18df414b-c26c-478e-9bb6-2c4127db0a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-power-off</value>
+      <webElementGuid>22feebf6-4b2a-41f7-accb-af1e510f69d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dokan-navigation&quot;)/ul[@class=&quot;dokan-dashboard-menu&quot;]/li[@class=&quot;dokan-common-links dokan-clearfix&quot;]/a[@class=&quot;tips&quot;]/i[@class=&quot;fas fa-power-off&quot;]</value>
+      <webElementGuid>4f29a884-5473-41ba-bce2-e78b3943ad9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dokan-navigation']/ul/li[15]/a[3]/i</value>
+      <webElementGuid>ca69f89c-761f-4edc-a4b3-f76a211adb4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/i</value>
+      <webElementGuid>502cb049-c6dc-417a-b543-640fca898524</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

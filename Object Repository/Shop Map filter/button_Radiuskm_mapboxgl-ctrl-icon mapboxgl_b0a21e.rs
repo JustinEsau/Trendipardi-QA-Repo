@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Radiuskm_mapboxgl-ctrl-icon mapboxgl_b0a21e</name>
+   <tag></tag>
+   <elementGuidId>d5c69512-ca92-4665-a903-1a46ae0b1f38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mapboxgl-ctrl-icon.mapboxgl-ctrl-zoom-out</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2d8b0675-a60f-480b-bec2-69f1f074f584</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mapboxgl-ctrl-icon mapboxgl-ctrl-zoom-out</value>
+      <webElementGuid>a165a6f3-fc4e-4d4a-87f5-bfefa6d04c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>58c135e1-08b8-4038-a735-641350d891ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Zoom out</value>
+      <webElementGuid>ce62f32a-09a0-44ef-8657-5e7923c8e3a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Zoom out</value>
+      <webElementGuid>390878a9-49cf-4029-903a-4a753222354c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dokan-geolocation-locations-map&quot;)/div[@class=&quot;mapboxgl-control-container&quot;]/div[@class=&quot;mapboxgl-ctrl-top-right&quot;]/div[@class=&quot;mapboxgl-ctrl mapboxgl-ctrl-group&quot;]/button[@class=&quot;mapboxgl-ctrl-icon mapboxgl-ctrl-zoom-out&quot;]</value>
+      <webElementGuid>85a66e8b-6ebe-45be-b079-d0f22d763fa2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>c9adc804-fb87-4c98-8005-c490d928717a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dokan-geolocation-locations-map']/div[3]/div[2]/div/button[2]</value>
+      <webElementGuid>391193f5-d606-4f4c-a454-86f358a63aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>c838c175-b16c-4c09-bfef-cd4a62366ee6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @title = 'Zoom out']</value>
+      <webElementGuid>2cb0649d-2c82-48e5-937d-43acd51172cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

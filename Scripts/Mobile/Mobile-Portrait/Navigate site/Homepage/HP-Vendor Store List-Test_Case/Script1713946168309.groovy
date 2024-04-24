@@ -24,6 +24,8 @@ WebUI.navigateToUrl(GlobalVariable.URL)
 'Set viewport size Mobile-portrait- 430 x 932'
 WebUI.setViewPortSize(430, 932)
 
+WebUI.click(findTestObject('Object Repository/Homepage/Mobile-Homepage/button_Accept'))
+
 WebUI.click(findTestObject('Object Repository/Homepage/h2_Find a Vendor'))
 
 WebUI.click(findTestObject('Object Repository/Homepage/a_View Vendor Store List'))

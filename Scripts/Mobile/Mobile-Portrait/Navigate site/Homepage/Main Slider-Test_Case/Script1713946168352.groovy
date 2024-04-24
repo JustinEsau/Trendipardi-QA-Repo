@@ -24,23 +24,15 @@ WebUI.navigateToUrl(GlobalVariable.URL)
 'Set viewport size Mobile-portrait- 430 x 932'
 WebUI.setViewPortSize(430, 932)
 
-WebUI.click(findTestObject('Object Repository/slider/button_Accept'))
+WebUI.click(findTestObject('Object Repository/Homepage/Mobile-Homepage/button_Accept'))
 
-WebUI.click(findTestObject('Object Repository/slider/img_GROW MY BIZ_skip-lazy'))
+WebUI.click(findTestObject('Object Repository/Homepage/Mobile-Homepage/div_GROW MY BIZ_n2-bullet n2-style-5a2a5358_779f9d'))
 
-WebUI.click(findTestObject('Object Repository/slider/div_GROW MY BIZ_n2-ss-4-arrow-next'))
+WebUI.click(findTestObject('Object Repository/Homepage/Mobile-Homepage/div_GROW MY BIZ_n2-bullet n2-style-5a2a5358_779f9d_1'))
 
-WebUI.click(findTestObject('Object Repository/slider/div_GROW MY BIZ_n2-ss-4-arrow-next'))
+WebUI.click(findTestObject('Object Repository/Homepage/Mobile-Homepage/div_GROW MY BIZ_n2-bullet n2-style-5a2a5358_779f9d_1_2'))
 
-WebUI.click(findTestObject('Object Repository/slider/img_GROW MY BIZ_skip-lazy_1'))
+WebUI.click(findTestObject('Object Repository/Homepage/Mobile-Homepage/div_GROW MY BIZ_n2-bullet n2-style-5a2a5358_779f9d_1_2_3'))
 
-WebUI.click(findTestObject('Object Repository/slider/img_GROW MY BIZ_skip-lazy_1'))
-
-WebUI.click(findTestObject('Object Repository/slider/img_GROW MY BIZ_skip-lazy_1'))
-
-WebUI.click(findTestObject('Object Repository/slider/img_GROW MY BIZ_skip-lazy'))
-
-WebUI.click(findTestObject('Object Repository/slider/div_BECOME A VENDOR'))
-
-'Close browser'
 WebUI.closeBrowser()
+

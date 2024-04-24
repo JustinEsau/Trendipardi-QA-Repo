@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Reviews</name>
+   <tag></tag>
+   <elementGuidId>9a337911-7752-4996-b2f8-f265f3888f0c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.dashboard-widget.reviews > div.widget-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div/div/div/div/div[2]/article/div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a392a686-1c4b-4b74-ab10-bd0aed20a3f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>widget-title</value>
+      <webElementGuid>3755feea-5050-4d1f-97f1-c22b13bf89a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Reviews</value>
+      <webElementGuid>65fb56bd-0c9b-4df9-a98f-a296e063c652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;elementor elementor-6&quot;]/div[@class=&quot;elementor-element elementor-element-6da0e279 e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-694f7a75 elementor-widget elementor-widget-shortcode&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-shortcode&quot;]/div[@class=&quot;dokan-dashboard-wrap&quot;]/div[@class=&quot;dokan-dashboard-content&quot;]/article[@class=&quot;dashboard-content-area&quot;]/div[@class=&quot;dokan-w6 dokan-dash-left&quot;]/div[@class=&quot;dashboard-widget reviews&quot;]/div[@class=&quot;widget-title&quot;]</value>
+      <webElementGuid>13270dbb-c2ac-464d-96a3-60b96b6c9352</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div/div/div/div/div[2]/article/div[2]/div[3]/div</value>
+      <webElementGuid>81a7a964-2b95-44e7-a3bb-d1dc39241897</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On hold'])[1]/following::div[3]</value>
+      <webElementGuid>8f53e528-cd4e-4049-a5e8-89be8ee70c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Refunded'])[1]/following::div[3]</value>
+      <webElementGuid>614ac366-a540-4f5b-a285-d02827ce805e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[3]/preceding::div[1]</value>
+      <webElementGuid>31dc20da-d9dd-47ed-827b-99e90b59a619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[2]/preceding::div[1]</value>
+      <webElementGuid>c0a4bf2e-90ff-47c8-b937-3a0889f705f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>52781966-a5ac-4999-a8ff-6d54951fec78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Reviews' or . = ' Reviews')]</value>
+      <webElementGuid>56c073ee-ee6f-4a95-8a2b-695ba6b30b03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

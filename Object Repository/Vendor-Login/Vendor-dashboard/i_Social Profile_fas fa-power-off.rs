@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Social Profile_fas fa-power-off</name>
+   <tag></tag>
+   <elementGuidId>baac4256-0756-4574-83a1-1511fd7767ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-power-off</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dokan-navigation']/ul/li[15]/a[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2e07535f-af68-4f1e-b52d-5f2b32aa9bc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-power-off</value>
+      <webElementGuid>7644807d-caf1-42f5-a94a-e5d426d172e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dokan-navigation&quot;)/ul[@class=&quot;dokan-dashboard-menu&quot;]/li[@class=&quot;dokan-common-links dokan-clearfix&quot;]/a[@class=&quot;tips&quot;]/i[@class=&quot;fas fa-power-off&quot;]</value>
+      <webElementGuid>8590b94f-6c0b-4124-8e24-d2c3afbc3b00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dokan-navigation']/ul/li[15]/a[3]/i</value>
+      <webElementGuid>b6ede97a-75bf-446e-abed-cca87bdb36f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/i</value>
+      <webElementGuid>338d29eb-45b7-4f32-8840-4ee8e193b23c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

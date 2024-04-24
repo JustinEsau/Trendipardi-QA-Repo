@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pageview</name>
+   <tag></tag>
+   <elementGuidId>d6032b12-675f-4995-b28e-9e929a60c18d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > div.title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content']/div/div/div/div/div/div/div/div[2]/article/div[2]/div/ul/li[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>afd2c350-e40d-4bf4-a9c0-baad462685bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>f5c8975a-a0ff-476e-95e0-e80f1b4c606e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pageview</value>
+      <webElementGuid>6b05f9d0-1b9f-409a-baa4-873ebe1334af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;elementor elementor-6&quot;]/div[@class=&quot;elementor-element elementor-element-6da0e279 e-flex e-con-boxed e-con e-parent&quot;]/div[@class=&quot;e-con-inner&quot;]/div[@class=&quot;elementor-element elementor-element-694f7a75 elementor-widget elementor-widget-shortcode&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-shortcode&quot;]/div[@class=&quot;dokan-dashboard-wrap&quot;]/div[@class=&quot;dokan-dashboard-content&quot;]/article[@class=&quot;dashboard-content-area&quot;]/div[@class=&quot;dokan-w6 dokan-dash-left&quot;]/div[@class=&quot;dashboard-widget big-counter&quot;]/ul[@class=&quot;list-inline&quot;]/li[3]/div[@class=&quot;title&quot;]</value>
+      <webElementGuid>d0193066-eff3-4411-8839-95e8fcb4b23a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content']/div/div/div/div/div/div/div/div[2]/article/div[2]/div/ul/li[3]/div</value>
+      <webElementGuid>8d06bdf9-f45f-4e6b-9cde-348ca316dd06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[3]/following::div[1]</value>
+      <webElementGuid>75a43a0b-ee6e-4d06-9d02-580db8b9a7ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Earning'])[1]/following::div[2]</value>
+      <webElementGuid>cffea38a-db8f-462e-ab39-44669b2236d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[1]/preceding::div[2]</value>
+      <webElementGuid>25d89feb-e302-4fc0-af63-6e037eaf77ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/preceding::div[4]</value>
+      <webElementGuid>a1aa5a84-91a4-4259-bbe4-e699263e5708</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pageview']/parent::*</value>
+      <webElementGuid>ac3df119-f132-48aa-82be-5c198ca7220a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div</value>
+      <webElementGuid>aeb36f60-d26b-45cb-b463-46df41911e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pageview' or . = 'Pageview')]</value>
+      <webElementGuid>af00edce-ef4f-4699-af6e-be0571833dc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

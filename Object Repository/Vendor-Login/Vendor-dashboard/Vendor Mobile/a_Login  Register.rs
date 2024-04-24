@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Login  Register</name>
+   <tag></tag>
+   <elementGuidId>f73e6896-7391-4e58-8e2e-b9d800442828</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > a.dokani-menu-login</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='site-navigation']/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1ce7b31f-2f09-49fb-b5b0-47fb09178a26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://uat1.redchipmedia.co.za/my-account/</value>
+      <webElementGuid>c73a12c0-edb2-4b6a-b3ab-74ca59b705b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dokani-menu-login</value>
+      <webElementGuid>c548a7fe-a4b7-4bd4-b046-74e543d8b6c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login / Register</value>
+      <webElementGuid>7fd18409-3937-4d44-a3c0-99a63dd7eac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;masthead&quot;)/div[@class=&quot;inside-header grid-container grid-parent&quot;]/div[@class=&quot;header-left&quot;]/div[@class=&quot;responsive-nav&quot;]/nav[@id=&quot;site-navigation&quot;]/div[@class=&quot;inside-navigation grid-container grid-parent&quot;]/ul[@class=&quot;responsive-user-menu no-list-style&quot;]/li[@class=&quot;sfHover&quot;]/a[@class=&quot;dokani-menu-login&quot;]</value>
+      <webElementGuid>8dc7ff5b-6bb9-4498-a41a-d3724b4727f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='site-navigation']/div/ul/li[2]/a</value>
+      <webElementGuid>e872c83c-96ef-4458-bf0e-377fb13e6e63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Login / Register')])[2]</value>
+      <webElementGuid>f8a2e770-f841-41b9-b5d7-dc67a865dde4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cart'])[1]/following::a[1]</value>
+      <webElementGuid>e524b06a-42fa-4e18-9fd2-750771dd944b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seasonal themes'])[1]/following::a[3]</value>
+      <webElementGuid>e96a975f-4667-4123-8dbd-43c016c6bc2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::a[1]</value>
+      <webElementGuid>a5ad6837-d5d1-4736-b2cf-a0882ae237f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::a[1]</value>
+      <webElementGuid>d1dbb769-3405-49f7-a8bb-7ecb587b807b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://uat1.redchipmedia.co.za/my-account/')])[2]</value>
+      <webElementGuid>034e1cf0-f5b4-40ba-b985-1d163efdf58e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/ul/li[2]/a</value>
+      <webElementGuid>475a7c3d-7e68-44ba-b758-8dc55190d26d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://uat1.redchipmedia.co.za/my-account/' and (text() = 'Login / Register' or . = 'Login / Register')]</value>
+      <webElementGuid>0551a4ef-6790-4657-9798-2924723c376e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

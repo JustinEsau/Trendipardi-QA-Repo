@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Accept</name>
+   <tag></tag>
+   <elementGuidId>dd19a9d7-5ad7-48eb-8d45-bbb33cbf708a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.cmplz-btn.cmplz-accept</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cmplz-cookiebanner-container']/div/div[6]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>df015362-7a21-4cef-a2c0-1f9c6c0ea621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cmplz-btn cmplz-accept</value>
+      <webElementGuid>313fb489-2cd2-4628-90f0-58be0bb13eee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Accept</value>
+      <webElementGuid>4fea9b43-f7cb-423d-b3b1-7c1f2ca58b20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cmplz-cookiebanner-container&quot;)/div[@class=&quot;cmplz-cookiebanner banner-1 banner-a optin cmplz-bottom-right cmplz-categories-type-view-preferences cmplz-show&quot;]/div[@class=&quot;cmplz-buttons&quot;]/button[@class=&quot;cmplz-btn cmplz-accept&quot;]</value>
+      <webElementGuid>379ee687-02c1-4892-a6f3-ce6d6e7e4997</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cmplz-cookiebanner-container']/div/div[6]/button</value>
+      <webElementGuid>00c8386a-3b11-462d-b545-7ea84ef6f979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Read more about these purposes'])[1]/following::button[1]</value>
+      <webElementGuid>7b687ed0-e5f5-4d7f-8ccc-1a9fe328db28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage {vendor_count} vendors'])[1]/following::button[1]</value>
+      <webElementGuid>e0a05828-470d-4092-966f-4603e0d1fab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deny'])[1]/preceding::button[1]</value>
+      <webElementGuid>51803fd4-b8af-4f08-9463-83be045a1eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View preferences'])[1]/preceding::button[2]</value>
+      <webElementGuid>c73e0ace-70da-416a-80b8-4d46175796f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Accept']/parent::*</value>
+      <webElementGuid>9358ceb6-af29-4cf3-bf2b-ea9ced2104a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>4ca01909-09e3-4bfe-82f3-ca9a79d5049d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Accept' or . = 'Accept')]</value>
+      <webElementGuid>317d038a-58c6-4047-8472-2871dfe69819</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

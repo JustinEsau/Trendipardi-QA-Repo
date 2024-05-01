@@ -53,4 +53,11 @@
       <testCaseId>Test Cases/Desktop/Navigate site/Homepage/Main Slider-Test_Case</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>af22154b-b6fa-4664-89f6-d923fb2cc955</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Desktop/Navigate site/Homepage/Navigate to Support-Test_Case</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>

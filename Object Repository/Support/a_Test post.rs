@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Test post</name>
+   <tag></tag>
+   <elementGuidId>603d1f33-3693-4823-a09a-5b9c3891222c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content']/section/div/div[2]/div/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.panel-block.is-radiusless</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cc6dda2b-954b-48d7-9645-db610ac27358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-block is-radiusless</value>
+      <webElementGuid>6a9fd66a-9545-4219-a6e0-da47262aae34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://support.trendipardi.co.za/test-post/</value>
+      <webElementGuid>0a435fe1-6acc-4472-9d6b-48b674be29b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test post</value>
+      <webElementGuid>b48d039f-86c4-46a7-a3a7-e8b3858fcf2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/section[@class=&quot;section&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;columns is-multiline mb-6&quot;]/div[@class=&quot;column is-4-widescreen is-6-desktop is-12-touch&quot;]/div[@class=&quot;panel has-background-white&quot;]/div[@class=&quot;tabs-content&quot;]/a[@class=&quot;panel-block is-radiusless&quot;]</value>
+      <webElementGuid>47c43f47-afbb-41ef-bde3-1b71b01fdce1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content']/section/div/div[2]/div/div/div[2]/a</value>
+      <webElementGuid>b4ab62f3-66d0-48f5-870e-a7e4a4a96b38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Test post')]</value>
+      <webElementGuid>8436614d-7df9-4475-884a-befaf95a911a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular'])[1]/following::a[1]</value>
+      <webElementGuid>65aa5f65-6f0c-449b-a204-34ac2ebf437a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::a[2]</value>
+      <webElementGuid>884bea54-6f62-464d-9ef6-638bb99bbf32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Test post'])[2]/preceding::a[1]</value>
+      <webElementGuid>e149d801-a9c5-43b8-8531-426ebe1d1d7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View all'])[1]/preceding::a[2]</value>
+      <webElementGuid>1fd5960a-7013-450c-a5ba-964c36b15b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Test post']/parent::*</value>
+      <webElementGuid>08aff441-f9f4-4f51-80dc-89fc263d5128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://support.trendipardi.co.za/test-post/')]</value>
+      <webElementGuid>a34cb740-ed6f-4f3e-b321-c6c1282c0529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/a</value>
+      <webElementGuid>fd434b07-b539-4f20-8e99-198aeb5b964f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://support.trendipardi.co.za/test-post/' and (text() = 'Test post' or . = 'Test post')]</value>
+      <webElementGuid>ee152ea2-0a9a-4b99-a80f-76359ba2941e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Skip to content_custom-logo</name>
+   <tag></tag>
+   <elementGuidId>ef210c71-11bf-4a2b-a54d-9127744092d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[@alt='Trendipardi Support']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.custom-logo</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d18a4745-3836-4ec5-84d1-016198804fcb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>703</value>
+      <webElementGuid>278ce2da-9b96-436a-91ef-fde576cda4e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>66</value>
+      <webElementGuid>83b4a8b2-23ef-4cad-85bc-6a882ad558dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://support.trendipardi.co.za/wp-content/uploads/2024/04/Trendipardi-logo-final.png</value>
+      <webElementGuid>c9962469-2e86-4d98-af6a-f6cbe1673e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-logo</value>
+      <webElementGuid>34643610-dca8-4ca0-aee3-1430bd1a43de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Trendipardi Support</value>
+      <webElementGuid>fbfc1d47-8c66-4d8c-9b63-5238052a886b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>ee670be8-bb89-47bf-9193-8f4d6a65298d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://support.trendipardi.co.za/wp-content/uploads/2024/04/Trendipardi-logo-final.png 703w, https://support.trendipardi.co.za/wp-content/uploads/2024/04/Trendipardi-logo-final-300x28.png 300w, https://support.trendipardi.co.za/wp-content/uploads/2024/04/Trendipardi-logo-final-20x2.png 20w</value>
+      <webElementGuid>667976ab-5351-4f44-8510-0ba3dc825170</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 703px) 100vw, 703px</value>
+      <webElementGuid>f2c79f46-4d70-4694-8413-8d18887a1f05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;post-template-default single single-post postid-50 single-format-standard wp-custom-logo has-navbar-fixed-top has-spaced-navbar-fixed-top elementor-default elementor-kit-74&quot;]/header[@class=&quot;header&quot;]/nav[@class=&quot;navbar  is-spaced has-shadow is-fixed-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;navbar-brand&quot;]/a[@class=&quot;navbar-item brand-logo&quot;]/img[@class=&quot;custom-logo&quot;]</value>
+      <webElementGuid>137f8adb-036a-48b7-b1e4-45c83f819ef3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Trendipardi Support']</value>
+      <webElementGuid>196bae31-e97c-4e81-bf98-40aff3b70998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>54547970-c3f0-42d8-aef9-cbdc0e2bb680</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://support.trendipardi.co.za/wp-content/uploads/2024/04/Trendipardi-logo-final.png' and @alt = 'Trendipardi Support']</value>
+      <webElementGuid>5d449c5d-8fc6-46d5-852f-42375a8982d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

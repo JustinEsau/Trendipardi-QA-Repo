@@ -4,4 +4,9 @@
    <name>LIVE</name>
    <tag></tag>
    <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://trendipardi.co.za/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
